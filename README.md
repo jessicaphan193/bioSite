@@ -1,2 +1,4 @@
-# bioSite
-CSD340-306H Web Development with HTML and CSS bioSite
+# CSD 340 Web Development with HTML and CSS
+## Contributors
+* Professor Sue
+* Jessica Phan
