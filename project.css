@@ -31,6 +31,18 @@ h3 {
     background: rgba(247, 112, 24, .2);
 }
 
+#footer {
+    background: rgba(185, 63, 8);
+    position: relative;
+    clear: both;
+    height: 60px;
+}
+
+.links {
+    text-align: center;
+    padding-top: 20px
+}
+
 .outer {
     border: solid;
     background: rgba(185, 63, 8);
@@ -41,11 +53,22 @@ h3 {
     justify-content: space-between;
 }
 
+table {
+    border: solid;
+    background: rgba(185, 63, 8);
+    border-radius: 15px;
+    padding: 5px;
+    margin-bottom: 10px;
+    /* border-spacing: 10px;*/
+}
+
 .outer img{
     height: 250px;
 }
 
 .outer p{
+    /* margin-top: 75px; */
+    margin-top: 75px;
     margin-right: 10px;
 }
 
@@ -60,14 +83,17 @@ h3 {
     clear: both;
     overflow: hidden;
 }
+
 .box{
     float: left;
     width: 45%;
     box-sizing: border-box;
 }
+
 .box-image{
     margin: 0;
 }
+
 .box-text{
     padding: 10px;
     margin-left: 10%;
