@@ -98,3 +98,14 @@ table {
     padding: 10px;
     margin-left: 10%;
 }
+
+#container {
+    background: rgba(247, 112, 24, .2);
+}
+
+.photo {
+    border: solid;
+    background: rgba(185, 63, 8);
+    border-radius: 15px;
+    padding: 5px;
+}
